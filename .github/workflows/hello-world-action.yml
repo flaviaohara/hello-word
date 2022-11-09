@@ -7,7 +7,7 @@ jobs:
   hello-world:
     runs-on: ubuntu-latest
     steps:
-       - run: echo "gOhACKING ghscd bb 2022!"
+       - run: echo "GoHacking GHSCD BB 2022!"
        
   call-other-actions:
     runs-on: ubuntu-latest
